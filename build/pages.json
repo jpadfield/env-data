@@ -1,0 +1,22 @@
+{
+"home": {
+	"title": "Environmental Data - <b>Display</b>",
+	"content": "Lots of details and graphs",
+	"content right": ""
+	},
+"summary": {
+	"title": "Environmental Data - <b>Summary</b>",
+	"content": "",
+	"content right": ""		
+	},
+"instructions": {
+	"title": "Environmental Data - <b>Instructions</b>",
+	"content": "",
+	"content right": ""
+	},
+"about": {
+	"title": "Environmental Data - <b>About</b>",
+	"content": "",
+	"content right": ""
+	}
+}
