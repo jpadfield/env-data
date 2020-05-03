@@ -1,5 +1,5 @@
 	{
-		"metaDescription": "Simple system for creating a set of web-pages to support your GitHub repository from a few simple json files.",
+		"metaDescription": "Simple system for presenting environmental data graphs from a few simple json and or text files.",
 		"metaKeywords": "The National Gallery, London, National Gallery London, Scientific, Research, Heritage, Culture, Humidity, Temperature, Graphs, Dygraphs, Light, Exposure, Exhibition, Preventive Conservation ",
 		"metaAuthor": "Joseph Padfield| joseph.padfield@ng-london.org.uk |National Gallery | London UK | website@ng-london.org.uk |www.nationalgallery.org.uk",
 		"metaTitle": "Environmental Data - Presenter",
