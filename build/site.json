@@ -1,8 +1,8 @@
 	{
 		"metaDescription": "Simple system for creating a set of web-pages to support your GitHub repository from a few simple json files.",
-		"metaKeywords": "The National Gallery, London, National Gallery London, Scientific, Research, Heritage, Culture, Light, Exposure, Exhibition, Preventive COnservation ",
+		"metaKeywords": "The National Gallery, London, National Gallery London, Scientific, Research, Heritage, Culture, Humidity, Temperature, Graphs, Dygraphs, Light, Exposure, Exhibition, Preventive Conservation ",
 		"metaAuthor": "Joseph Padfield| joseph.padfield@ng-london.org.uk |National Gallery | London UK | website@ng-london.org.uk |www.nationalgallery.org.uk",
-		"metaTitle": "Lux Allowance - Calculator",
+		"metaTitle": "Environmental Data - Presenter",
 		"metaFavIcon": "graphics/favicon.ico",
 		"logo_link": "./",
 		"licence": "<a href='http://rightsstatements.org/vocab/InC-EDU/1.0/'><img height='16' alt='In Copyright - Educational Use Permitted' title='In Copyright - Educational Use Permitted' src='graphics/InC-EDU.dark-white-interior-blue-type.png'/></a><a rel='license' href='https://creativecommons.org/licenses/by-nc/4.0/'><img alt='Creative Commons Licence' style='border-width:0' src='https://i.creativecommons.org/l/by-nc/4.0/88x31.png' /></a>",
@@ -10,9 +10,9 @@
 		"footer": "&copy; The National Gallery 2020",
 		"extra_logos": {
 			"github": {
-				"link": "https://github.com/jpadfield/Lux-Allowance-Calculator",
+				"link": "https://github.com/jpadfield/env-data",
 				"logo": "graphics/github logo white.png",
-				"alt": "GitHub Jpadfield Simple-site"
+				"alt": "GitHub Jpadfield Environmental Data Presenter"
 			}
 		},
 		"extra_js_scripts": [],
